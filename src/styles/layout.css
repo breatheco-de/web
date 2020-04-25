@@ -12,6 +12,7 @@ VERSION:	Versoin Number
 
 .layout {
   font-family: "Montserrat", sans-serif;
+  background: white;
   -webkit-font-smoothing: antialiased;
   font-size: 16px;
   line-height: 1.6;
