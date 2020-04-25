@@ -1,4 +1,4 @@
-import theme from 'gatsby-theme-dox/src/theme'
+import theme from 'gatsby-theme-dox/src/theme';
 
 export default {
   ...theme,
